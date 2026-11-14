@@ -1,6 +1,6 @@
 # Credit Portfolio Performance Analysis
 
-**Loan Portfolio Analysis · Repayment Performance · Credit Risk**\
+**Credit Portfolio Analysis · Repayment Performance · Credit Risk**\
 **PostgreSQL \| SQL \| Power BI \| DAX \| Excel**
 
 ## Project Overview
